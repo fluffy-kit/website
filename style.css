@@ -107,13 +107,6 @@ to {background-position: -100px 0px;background-size:2750px;}
   100% { opacity: 1; }
 }
 
-*{ box-sizing: border-box;
-}  
-html, body, div, img {
-padding: auto;
-border: 0.2cm;
-}
-
 h1 {
   color: black;
   font-size: larger;
