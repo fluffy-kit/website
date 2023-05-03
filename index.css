@@ -292,7 +292,7 @@ transform: translate(95vw,90vh);
 #nav_bar {
   height: 2cm;
   display: flex;
-  justify-content: space-evenly;
+  justify-content:center;
   align-items: center;
   font-size: 1cm;
 }
